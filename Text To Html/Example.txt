@@ -1,0 +1,13 @@
+Hi! Im unformatted text.
+Do you notice how bunched
+up I look in the Html window?
+
+Kinda Bunched Up. Ok...
+
+<br><br><B>Below is the same text that has been formatted!</B><br>
+<br>
+Hi! Im unformatted text.<br>
+Do you notice how bunched<br>
+up I look in the Html window?<br>
+<br>
+Kinda Bunched Up. Ok...<br>
